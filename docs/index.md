@@ -22,3 +22,7 @@ Cała zebrana tu wiedza dzieli się na dwie części, zebrane w dwóch folderach
 Ten pierwszy, jest zbiorem charakterystyk wybranych Bogów, opartych na łatwo dostępnej, internetowej wiedzy. Ułożone w teksty, zlepione w jednolitą całość z najczęściej powtarzających się informacji z różnych źródeł, do których odnalezienia wystarczył szybki **'Google search'**
 
 Ten drugi jest zestawieniem owych tekstów z historycznymi realiami, demonstrując jak historia z czasem zaczęła ustępować miejsca fikcji, jednocześnie wyjaśniając dlaczego tak się stało.
+
+
+
+test
